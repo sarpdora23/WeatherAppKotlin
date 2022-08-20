@@ -14,7 +14,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
     val CITY:String = "ankara,tr"
-    val API:String = "49ad26746ace08afddb16b3fd59b5565"
+    val API:String = ""
     private lateinit var binding:ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
